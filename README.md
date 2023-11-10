@@ -1,4 +1,4 @@
-# 你好|Hi there|こんにちは 👋
+# 你好 | Hi there | こんにちは 👋
 
 - 📚 I'm a PhD candidate in Electrical and Electronic Engineering. 
 - 👷‍♂️ I'm currently engaged in the field of integrated photonics and semiconductor lasers.
